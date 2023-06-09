@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+    <link rel="stylesheet" href="./login.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="login">
+      <img class="login-child" alt="" src="./public/ellipse-5.svg" />
+
+      <img
+        class="arrowrightcirclefill-icon20"
+        alt=""
+        src="./public/arrowrightcirclefill8.svg"
+        id="arrowRightCircleFill"
+      />
+
+      <div class="trattoria-andrade18">Trattoria Andrade</div>
+      <input class="login-item" type="text" />
+
+      <div class="e-mail">
+        <p class="e-mail1">E-mail</p>
+      </div>
+      <div class="login-inner"></div>
+      <div class="senha">Senha</div>
+      <div class="login-child1"></div>
+      <div class="login-child2"></div>
+      <img class="login-child3" alt="" src="./public/ellipse-3.svg" />
+
+      <img
+        class="vector-icon214"
+        alt=""
+        src="./public/vector1.svg"
+        id="vectorIcon"
+      />
+
+      <img class="login-child4" alt="" src="./public/ellipse-4.svg" />
+
+      <div class="facebook">Facebook</div>
+      <div class="google" id="googleText">Google</div>
+      <img class="envelopefill-icon" alt="" src="./public/envelopefill.svg" />
+
+      <div class="lockfill"></div>
+      <div class="login-child5"></div>
+      <img
+        class="arrowrightcirclefill-icon21"
+        alt=""
+        src="./public/arrowrightcirclefill9.svg"
+      />
+
+      <div class="login1" id="loginText">Login</div>
+      <img
+        class="icon-google-icon"
+        alt=""
+        src="./public/-icon-google-icon1.svg"
+      />
+
+      <img class="vector-icon215" alt="" src="./public/vector12.svg" />
+    </div>
+
+    <script>
+      var arrowRightCircleFill = document.getElementById("arrowRightCircleFill");
+      if (arrowRightCircleFill) {
+        arrowRightCircleFill.addEventListener("click", function (e) {
+          window.location.href = "./tela-inicial.html";
+        });
+      }
+      
+      var vectorIcon = document.getElementById("vectorIcon");
+      if (vectorIcon) {
+        vectorIcon.addEventListener("click", function (e) {
+          window.location.href = "./menu.html";
+        });
+      }
+      
+      var googleText = document.getElementById("googleText");
+      if (googleText) {
+        googleText.addEventListener("click", function (e) {
+          window.location.href = "./menu.html";
+        });
+      }
+      
+      var loginText = document.getElementById("loginText");
+      if (loginText) {
+        loginText.addEventListener("click", function (e) {
+          window.location.href = "./menu.html";
+        });
+      }
+      </script>
+  </body>
+</html>

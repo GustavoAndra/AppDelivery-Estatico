@@ -1,0 +1,301 @@
+.favorito-child {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: 50%;
+  width: 28.38rem;
+  height: 17.75rem;
+}
+.trattoria-andrade10 {
+  position: absolute;
+  top: 4rem;
+  left: 3rem;
+  display: inline-block;
+  width: 19.81rem;
+  height: 2.38rem;
+}
+.favorito-item {
+  position: absolute;
+  top: 46.56rem;
+  left: 0.75rem;
+  border-radius: 40px;
+  width: 22.88rem;
+  height: 4.56rem;
+}
+.favorito-inner {
+  position: absolute;
+  top: 47.06rem;
+  left: 3.69rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.38rem;
+}
+.favorito-child1 {
+  position: absolute;
+  top: 47.38rem;
+  left: 8.19rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.favorito-child2 {
+  position: absolute;
+  top: 47.06rem;
+  left: 12.69rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.06rem;
+}
+.favorito-child3 {
+  position: absolute;
+  top: 47.38rem;
+  left: 17.31rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.personcircle-icon32 {
+  position: absolute;
+  top: 47.69rem;
+  left: 17.94rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+}
+.vector-icon116 {
+  position: absolute;
+  height: 3.7%;
+  width: 7.63%;
+  top: 91.17%;
+  right: 37.66%;
+  bottom: 5.13%;
+  left: 54.71%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon117 {
+  position: absolute;
+  height: 2.98%;
+  width: 7.89%;
+  top: 91.53%;
+  right: 55.73%;
+  bottom: 5.49%;
+  left: 36.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.house-icon32 {
+  position: absolute;
+  top: 47.75rem;
+  left: 4.5rem;
+  width: 1.81rem;
+  height: 1.88rem;
+  overflow: hidden;
+}
+.vector-icon121 {
+  position: absolute;
+  height: 2.98%;
+  width: 7.89%;
+  top: 91.53%;
+  right: 55.73%;
+  bottom: 5.49%;
+  left: 36.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.favorito-child18 {
+  position: absolute;
+  top: 47.06rem;
+  left: 3.75rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.38rem;
+}
+.favorito-child19 {
+  position: absolute;
+  top: 47.38rem;
+  left: 8.25rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.favorito-child20 {
+  position: absolute;
+  top: 47.06rem;
+  left: 12.75rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.06rem;
+}
+.favorito-child21 {
+  position: absolute;
+  top: 47.38rem;
+  left: 17.38rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.personcircle-icon36 {
+  position: absolute;
+  top: 47.69rem;
+  left: 18rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+}
+.vector-icon128 {
+  position: absolute;
+  height: 3.7%;
+  width: 7.63%;
+  top: 91.17%;
+  right: 37.4%;
+  bottom: 5.13%;
+  left: 54.96%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon129 {
+  position: absolute;
+  height: 2.98%;
+  width: 7.89%;
+  top: 91.53%;
+  right: 55.47%;
+  bottom: 5.49%;
+  left: 36.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.house-icon36 {
+  position: absolute;
+  top: 47.75rem;
+  left: 4.56rem;
+  width: 1.81rem;
+  height: 1.88rem;
+  overflow: hidden;
+}
+.vector-icon133 {
+  position: absolute;
+  height: 2.98%;
+  width: 7.89%;
+  top: 91.53%;
+  right: 55.47%;
+  bottom: 5.49%;
+  left: 36.64%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.favorito-child26 {
+  position: absolute;
+  top: 46.56rem;
+  left: 0.81rem;
+  border-radius: 40px;
+  width: 22.88rem;
+  height: 4.56rem;
+}
+.personcircle-icon39 {
+  position: absolute;
+  top: 47.69rem;
+  left: 18rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.gelatos-caseiros {
+  position: absolute;
+  top: 29.63rem;
+  left: 6rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  color: #000;
+  width: 13.38rem;
+  height: 2.75rem;
+}
+.r4600 {
+  position: absolute;
+  top: 33.81rem;
+  left: 6.44rem;
+  font-size: 1rem;
+  display: inline-block;
+  color: #000;
+  width: 9.31rem;
+  height: 1.25rem;
+}
+.starfill-icon {
+  position: absolute;
+  top: 37.13rem;
+  left: 3.88rem;
+  width: 2.38rem;
+  height: 2.63rem;
+  overflow: hidden;
+}
+.starfill-icon1 {
+  position: absolute;
+  top: 37.13rem;
+  left: 7.19rem;
+  width: 2.38rem;
+  height: 2.63rem;
+  overflow: hidden;
+}
+.starfill-icon2 {
+  position: absolute;
+  top: 37.13rem;
+  left: 10.75rem;
+  width: 2.38rem;
+  height: 2.63rem;
+  overflow: hidden;
+}
+.starfill-icon3 {
+  position: absolute;
+  top: 37.13rem;
+  left: 14.31rem;
+  width: 2.38rem;
+  height: 2.63rem;
+  overflow: hidden;
+}
+.starfill-icon4 {
+  position: absolute;
+  top: 37.13rem;
+  left: 17.75rem;
+  width: 2.38rem;
+  height: 2.63rem;
+  overflow: hidden;
+}
+.arrowrightcirclefill-icon17 {
+  position: absolute;
+  top: 33rem;
+  left: 16.5rem;
+  width: 2.69rem;
+  height: 2.63rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.favorito-child35 {
+  position: absolute;
+  top: 10.75rem;
+  left: 3.25rem;
+  border-radius: 250px;
+  width: 18rem;
+  height: 17.06rem;
+  object-fit: cover;
+}
+.favorito {
+  position: relative;
+  border-radius: 40px;
+  background-color: #fff;
+  width: 100%;
+  height: 52.38rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 2rem;
+  color: #fff;
+  font-family: Montserrat;
+}

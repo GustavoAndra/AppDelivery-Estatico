@@ -1,0 +1,636 @@
+.compra-child {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: 50%;
+  width: 28.38rem;
+  height: 17.75rem;
+}
+.trattoria-andrade {
+  position: absolute;
+  top: 4rem;
+  left: 3rem;
+  font-size: 2rem;
+  color: #fff;
+  display: inline-block;
+  width: 19.81rem;
+  height: 2.38rem;
+}
+.meus-pedidos {
+  position: absolute;
+  top: 11.06rem;
+  left: 7.88rem;
+  font-size: 1.25rem;
+  display: inline-block;
+  width: 16.31rem;
+  height: 1.63rem;
+}
+.compra-inner {
+  position: absolute;
+  top: 15.94rem;
+  left: -1.31rem;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 29.69rem;
+  height: 9.06rem;
+  opacity: 0.7;
+}
+.rectangle-div {
+  position: absolute;
+  top: 34.44rem;
+  left: -1.31rem;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 29.69rem;
+  height: 9.06rem;
+}
+.image-16-icon {
+  position: absolute;
+  top: 16.81rem;
+  left: 1.56rem;
+  border-radius: 250px;
+  width: 7.44rem;
+  height: 7.25rem;
+  object-fit: cover;
+}
+.x {
+  position: absolute;
+  top: 19.56rem;
+  left: 11.31rem;
+  font-size: 0.88rem;
+  display: inline-block;
+  width: 2.19rem;
+  height: 2.75rem;
+}
+.pizza-baguna {
+  position: absolute;
+  top: 18.25rem;
+  left: 13.94rem;
+  display: inline-block;
+  width: 8.31rem;
+  height: 1.31rem;
+}
+.r6600 {
+  position: absolute;
+  top: 19.94rem;
+  left: 14.94rem;
+  display: inline-block;
+  width: 7.88rem;
+  height: 3.19rem;
+}
+.x1 {
+  position: absolute;
+  top: 28.88rem;
+  left: 11.31rem;
+  font-size: 0.88rem;
+  display: inline-block;
+  width: 2.19rem;
+  height: 2.75rem;
+}
+.r4400 {
+  position: absolute;
+  top: 29rem;
+  left: 14.94rem;
+  display: inline-block;
+  width: 7.88rem;
+  height: 3.19rem;
+}
+.image-20-icon {
+  position: absolute;
+  top: 25.88rem;
+  left: 1.56rem;
+  border-radius: 250px;
+  width: 7.63rem;
+  height: 7.25rem;
+  object-fit: cover;
+}
+.massa-com-espearias {
+  position: absolute;
+  top: 26.31rem;
+  left: 14.06rem;
+  display: inline-block;
+  width: 6.44rem;
+  height: 1.31rem;
+}
+.x2 {
+  position: absolute;
+  top: 38.56rem;
+  left: 11.31rem;
+  font-size: 0.88rem;
+  display: inline-block;
+  width: 2.19rem;
+  height: 2.75rem;
+}
+.r3400 {
+  position: absolute;
+  top: 38.94rem;
+  left: 14.94rem;
+  display: inline-block;
+  width: 7.88rem;
+  height: 3.19rem;
+}
+.x3 {
+  position: absolute;
+  top: 48.19rem;
+  left: 11.31rem;
+  font-size: 0.88rem;
+  display: inline-block;
+  width: 2.19rem;
+  height: 2.75rem;
+}
+.r2400 {
+  position: absolute;
+  top: 48.56rem;
+  left: 14.94rem;
+  display: inline-block;
+  width: 7.88rem;
+  height: 3.19rem;
+}
+.image-24-icon {
+  position: absolute;
+  top: 35.44rem;
+  left: 1.63rem;
+  border-radius: 250px;
+  width: 7.56rem;
+  height: 7.56rem;
+  object-fit: cover;
+}
+.gelato-de-amendoim {
+  position: absolute;
+  top: 35.88rem;
+  left: 14.56rem;
+  display: inline-block;
+  width: 5.88rem;
+}
+.image-29-icon {
+  position: absolute;
+  top: 44.81rem;
+  left: 1.63rem;
+  border-radius: 250px;
+  width: 7.56rem;
+  height: 7.25rem;
+  object-fit: cover;
+}
+.compra-child1 {
+  position: absolute;
+  top: 59.31rem;
+  left: 0rem;
+  border-radius: 40px;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 24.56rem;
+  height: 34.13rem;
+}
+.panna-cotta {
+  position: absolute;
+  top: 46.06rem;
+  left: 14.25rem;
+  display: inline-block;
+  width: 9.19rem;
+  height: 1.31rem;
+}
+.arrowrightcirclefill-icon {
+  position: absolute;
+  top: 10.56rem;
+  left: 3rem;
+  width: 2.69rem;
+  height: 2.63rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.total {
+  position: absolute;
+  top: 65.38rem;
+  left: 2.19rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  width: 5rem;
+  height: 2.75rem;
+}
+.r11000 {
+  position: absolute;
+  top: 65.38rem;
+  left: 16.19rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  width: 8.69rem;
+  height: 1.44rem;
+}
+.subtotal {
+  position: absolute;
+  top: 61rem;
+  left: 2.19rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  width: 8.69rem;
+  height: 2.75rem;
+}
+.r110001 {
+  position: absolute;
+  top: 61rem;
+  left: 16.19rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  width: 8.69rem;
+  height: 1.44rem;
+}
+.vector-icon {
+  position: absolute;
+  height: 2.01%;
+  width: 6.87%;
+  top: 26.26%;
+  right: -15.52%;
+  bottom: 71.73%;
+  left: 108.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 0.84%;
+  width: 3.31%;
+  top: 26.85%;
+  right: -13.74%;
+  bottom: 72.32%;
+  left: 110.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.compra-child2 {
+  position: absolute;
+  top: 19.5rem;
+  left: 26.69rem;
+  border-radius: 5px;
+  background-color: #ed2d2d;
+  width: 1.69rem;
+  height: 1.5rem;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 0.84%;
+  width: 3.31%;
+  top: 26.76%;
+  right: -13.74%;
+  bottom: 72.4%;
+  left: 110.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 2.01%;
+  width: 6.87%;
+  top: 26.17%;
+  right: -15.52%;
+  bottom: 71.81%;
+  left: 108.65%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 14.56rem;
+  left: 36.13rem;
+  border-radius: 40px;
+  width: 22.88rem;
+  height: 4.56rem;
+}
+.compra-child3 {
+  position: absolute;
+  top: 81.63rem;
+  left: calc(50% - 140.5px);
+  border-radius: 100px;
+  background-color: #ed2d2d;
+  width: 17.5rem;
+  height: 4.38rem;
+}
+.comprar {
+  position: absolute;
+  top: 82.88rem;
+  left: 8.38rem;
+  font-size: 1.5rem;
+  display: inline-block;
+  color: #fff;
+  width: 10.88rem;
+  height: 2.63rem;
+}
+.confirmar-rota-de {
+  position: absolute;
+  top: 71.56rem;
+  left: 7rem;
+  font-size: 0.94rem;
+  display: inline-block;
+  width: 13.69rem;
+  height: 2.06rem;
+}
+.arcticonsmapsgeobookmarks {
+  position: absolute;
+  top: 71.19rem;
+  left: 3.94rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  overflow: hidden;
+}
+.forma-de-pagamento {
+  position: absolute;
+  top: 74.75rem;
+  left: 7.19rem;
+  font-size: 0.94rem;
+  display: inline-block;
+  width: 13.69rem;
+  height: 2.06rem;
+}
+.line-icon {
+  position: absolute;
+  top: 63.41rem;
+  left: 0rem;
+  width: 24.56rem;
+  height: 0.31rem;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 19.33%;
+  right: 9.41%;
+  bottom: 79.06%;
+  left: 83.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon5 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 19.8%;
+  right: 11.2%;
+  bottom: 79.53%;
+  left: 85.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.compra-child4 {
+  position: absolute;
+  top: 18rem;
+  left: 20.56rem;
+  border-radius: 5px;
+  background-color: #ed2d2d;
+  width: 1.69rem;
+  height: 1.5rem;
+}
+.vector-icon6 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 19.73%;
+  right: 11.2%;
+  bottom: 79.6%;
+  left: 85.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon7 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 19.26%;
+  right: 9.41%;
+  bottom: 79.13%;
+  left: 83.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon8 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 28.29%;
+  right: 9.67%;
+  bottom: 70.1%;
+  left: 83.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon9 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 28.76%;
+  right: 11.45%;
+  bottom: 70.57%;
+  left: 85.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.compra-child5 {
+  position: absolute;
+  top: 26.38rem;
+  left: 20.5rem;
+  border-radius: 5px;
+  background-color: #ed2d2d;
+  width: 1.69rem;
+  height: 1.5rem;
+}
+.vector-icon10 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 28.7%;
+  right: 11.45%;
+  bottom: 70.64%;
+  left: 85.24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon11 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 28.23%;
+  right: 9.67%;
+  bottom: 70.17%;
+  left: 83.46%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.makiwaste-basket-icon {
+  position: absolute;
+  top: 28.81rem;
+  left: 20.5rem;
+  width: 1.69rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.makiwaste-basket-icon1 {
+  position: absolute;
+  top: 48.69rem;
+  left: 20.44rem;
+  width: 1.69rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.makiwaste-basket-icon2 {
+  position: absolute;
+  top: 37.94rem;
+  left: 20.56rem;
+  width: 1.69rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.vector-icon12 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 38.26%;
+  right: 9.41%;
+  bottom: 60.13%;
+  left: 83.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon13 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 38.73%;
+  right: 11.2%;
+  bottom: 60.6%;
+  left: 85.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.compra-child6 {
+  position: absolute;
+  top: 35.69rem;
+  left: 20.56rem;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 1.69rem;
+  height: 1.5rem;
+}
+.vector-icon14 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 38.66%;
+  right: 11.2%;
+  bottom: 60.67%;
+  left: 85.5%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon15 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 38.19%;
+  right: 9.41%;
+  bottom: 60.2%;
+  left: 83.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon16 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 49.36%;
+  right: 9.92%;
+  bottom: 49.03%;
+  left: 83.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon17 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 49.83%;
+  right: 11.7%;
+  bottom: 49.5%;
+  left: 84.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.compra-child7 {
+  position: absolute;
+  top: 46.06rem;
+  left: 20.44rem;
+  border-radius: 5px;
+  background-color: #fff;
+  width: 1.69rem;
+  height: 1.5rem;
+}
+.vector-icon18 {
+  position: absolute;
+  height: 0.67%;
+  width: 3.31%;
+  top: 49.77%;
+  right: 11.7%;
+  bottom: 49.57%;
+  left: 84.99%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon19 {
+  position: absolute;
+  height: 1.61%;
+  width: 6.87%;
+  top: 49.3%;
+  right: 9.92%;
+  bottom: 49.1%;
+  left: 83.21%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.fluentpayment-32-regular-icon {
+  position: absolute;
+  top: 74.44rem;
+  left: 3.94rem;
+  width: 2rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.makiwaste-basket-icon3 {
+  position: absolute;
+  top: 20.44rem;
+  left: 20.56rem;
+  width: 1.69rem;
+  height: 1.5rem;
+  overflow: hidden;
+}
+.compra {
+  position: relative;
+  border-radius: 40px;
+  background-color: #fff;
+  width: 100%;
+  height: 93.44rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.75rem;
+  color: #000;
+  font-family: Montserrat;
+}

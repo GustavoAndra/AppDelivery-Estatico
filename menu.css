@@ -1,0 +1,769 @@
+.menu-child {
+  position: absolute;
+  top: 0rem;
+  left: 0rem;
+  border-radius: 50%;
+  width: 28.38rem;
+  height: 17.75rem;
+}
+.trattoria-andrade16 {
+  position: absolute;
+  top: 4rem;
+  left: 3rem;
+  font-size: 2rem;
+  color: #fff;
+  display: inline-block;
+  width: 19.81rem;
+  height: 2.38rem;
+}
+.image-3-icon {
+  position: absolute;
+  top: 14.75rem;
+  left: 7.25rem;
+  border-radius: 250px;
+  width: 4.94rem;
+  height: 5.19rem;
+  object-fit: cover;
+}
+.menu-item {
+  position: absolute;
+  top: 14.75rem;
+  left: 1.25rem;
+  border-radius: 50%;
+  width: 5.31rem;
+  height: 5.19rem;
+  object-fit: cover;
+}
+.image-4-icon {
+  position: absolute;
+  top: 14.75rem;
+  left: 18.31rem;
+  border-radius: 250px;
+  width: 4.94rem;
+  height: 5.19rem;
+  object-fit: cover;
+}
+.menu-inner {
+  position: absolute;
+  top: 28.13rem;
+  left: 2.13rem;
+  border-radius: 25px;
+  width: 20.69rem;
+  height: 9.25rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.menu-child1 {
+  position: absolute;
+  top: 39.63rem;
+  left: 2.13rem;
+  border-radius: 25px;
+  width: 20.69rem;
+  height: 9.25rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-6-icon {
+  position: absolute;
+  top: 14.75rem;
+  left: 12.88rem;
+  border-radius: 250px;
+  width: 5rem;
+  height: 5.19rem;
+  object-fit: cover;
+}
+.image-7-icon {
+  position: absolute;
+  top: 14.75rem;
+  left: 7.25rem;
+  border-radius: 250px;
+  width: 4.94rem;
+  height: 5.19rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.menu-child3 {
+  position: absolute;
+  top: 14.75rem;
+  left: 1.25rem;
+  border-radius: 50%;
+  width: 5.31rem;
+  height: 5.19rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.favoritos-do-momento {
+  position: absolute;
+  top: 24.25rem;
+  left: 2.13rem;
+  font-size: 1.25rem;
+  display: inline-block;
+  width: 16.31rem;
+  height: 1.63rem;
+}
+.lojas {
+  position: absolute;
+  top: 51.44rem;
+  left: 2.13rem;
+  font-size: 1.25rem;
+  display: inline-block;
+  width: 16.31rem;
+  height: 1.63rem;
+}
+.pienza {
+  position: absolute;
+  top: 55.31rem;
+  left: 7.5rem;
+  font-size: 0.75rem;
+}
+.pizza {
+  position: absolute;
+  top: 56.69rem;
+  left: 10.38rem;
+  color: #ed2d2d;
+}
+.km {
+  position: absolute;
+  top: 56.69rem;
+  left: 12.81rem;
+}
+.image-9-icon {
+  position: absolute;
+  top: 14.75rem;
+  left: 12.88rem;
+  border-radius: 250px;
+  width: 5rem;
+  height: 5.19rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.image-24-icon1 {
+  position: absolute;
+  top: 14.75rem;
+  left: 18.31rem;
+  border-radius: 250px;
+  width: 5rem;
+  height: 5.25rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+.r-edmir-moraes {
+  position: absolute;
+  top: 10.88rem;
+  left: 5.5rem;
+  font-size: 0.81rem;
+  display: inline-block;
+  width: 21.31rem;
+  height: 1.5rem;
+}
+.icon-heart {
+  position: absolute;
+  height: 0.83%;
+  width: 4.79%;
+  top: 43.27%;
+  right: 9.21%;
+  bottom: 55.9%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-30-icon {
+  position: absolute;
+  top: 54.13rem;
+  left: 1.06rem;
+  border-radius: 158.5px;
+  width: 4.94rem;
+  height: 4.88rem;
+  object-fit: cover;
+}
+.div {
+  position: absolute;
+  top: 56.75rem;
+  left: 8.56rem;
+  font-size: 0.63rem;
+  color: #ffcb0c;
+  display: inline-block;
+  width: 2.56rem;
+  height: 0.75rem;
+}
+.menu-child4 {
+  position: absolute;
+  top: 56.94rem;
+  left: 9.81rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.menu-child5 {
+  position: absolute;
+  top: 56.94rem;
+  left: 12.31rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.menu-child6 {
+  position: absolute;
+  top: 78.63rem;
+  left: 0.88rem;
+  border-radius: 40px;
+  width: 22.88rem;
+  height: 4.56rem;
+}
+.menu-child7 {
+  position: absolute;
+  top: 79.13rem;
+  left: 1.38rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.38rem;
+}
+.menu-child8 {
+  position: absolute;
+  top: 79.44rem;
+  left: 5.88rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.menu-child9 {
+  position: absolute;
+  top: 79.13rem;
+  left: 10.38rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.06rem;
+}
+.menu-child10 {
+  position: absolute;
+  top: 79.13rem;
+  left: 14.88rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.38rem;
+}
+.menu-child11 {
+  position: absolute;
+  top: 79.44rem;
+  left: 19.38rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.personcircle-icon56 {
+  position: absolute;
+  top: 79.75rem;
+  left: 20rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+}
+.bookmarks-icon6 {
+  position: absolute;
+  top: 79.75rem;
+  left: 15.38rem;
+  width: 2.13rem;
+  height: 2rem;
+  overflow: hidden;
+}
+.vector-icon188 {
+  position: absolute;
+  height: 2.3%;
+  width: 7.63%;
+  top: 94.66%;
+  right: 47.07%;
+  bottom: 3.04%;
+  left: 45.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon189 {
+  position: absolute;
+  height: 1.85%;
+  width: 7.89%;
+  top: 94.89%;
+  right: 65.14%;
+  bottom: 3.26%;
+  left: 26.97%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.house-icon56 {
+  position: absolute;
+  top: 79.81rem;
+  left: 2.19rem;
+  width: 1.81rem;
+  height: 1.88rem;
+  overflow: hidden;
+}
+.menu-child19 {
+  position: absolute;
+  top: 79.13rem;
+  left: 3.81rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.38rem;
+}
+.menu-child20 {
+  position: absolute;
+  top: 79.44rem;
+  left: 8.31rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.menu-child21 {
+  position: absolute;
+  top: 79.13rem;
+  left: 12.81rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.06rem;
+}
+.menu-child22 {
+  position: absolute;
+  top: 79.44rem;
+  left: 17.44rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.personcircle-icon58 {
+  position: absolute;
+  top: 79.75rem;
+  left: 18.06rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+}
+.vector-icon194 {
+  position: absolute;
+  height: 2.3%;
+  width: 7.63%;
+  top: 94.66%;
+  right: 37.15%;
+  bottom: 3.04%;
+  left: 55.22%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon195 {
+  position: absolute;
+  height: 1.85%;
+  width: 7.89%;
+  top: 94.89%;
+  right: 55.22%;
+  bottom: 3.26%;
+  left: 36.9%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.house-icon58 {
+  position: absolute;
+  top: 79.81rem;
+  left: 4.63rem;
+  width: 1.81rem;
+  height: 1.88rem;
+  overflow: hidden;
+}
+.house-icon59 {
+  position: absolute;
+  top: 79.81rem;
+  left: 4.63rem;
+  width: 1.81rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.menu-child27 {
+  position: absolute;
+  top: 79.13rem;
+  left: 3.88rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.38rem;
+}
+.menu-child28 {
+  position: absolute;
+  top: 79.44rem;
+  left: 8.38rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.menu-child29 {
+  position: absolute;
+  top: 79.13rem;
+  left: 12.88rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3.06rem;
+}
+.menu-child30 {
+  position: absolute;
+  top: 79.44rem;
+  left: 17.5rem;
+  border-radius: 50%;
+  width: 3.44rem;
+  height: 3rem;
+}
+.personcircle-icon60 {
+  position: absolute;
+  top: 79.75rem;
+  left: 18.13rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+}
+.vector-icon200 {
+  position: absolute;
+  height: 2.3%;
+  width: 7.63%;
+  top: 94.66%;
+  right: 36.9%;
+  bottom: 3.04%;
+  left: 55.47%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon201 {
+  position: absolute;
+  height: 1.85%;
+  width: 7.89%;
+  top: 94.89%;
+  right: 54.96%;
+  bottom: 3.26%;
+  left: 37.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.house-icon60 {
+  position: absolute;
+  top: 79.81rem;
+  left: 4.69rem;
+  width: 1.81rem;
+  height: 1.88rem;
+  overflow: hidden;
+}
+.vector-icon205 {
+  position: absolute;
+  height: 1.85%;
+  width: 7.89%;
+  top: 94.89%;
+  right: 54.96%;
+  bottom: 3.26%;
+  left: 37.15%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.menu-child35 {
+  position: absolute;
+  top: 78.63rem;
+  left: 0.94rem;
+  border-radius: 40px;
+  width: 22.88rem;
+  height: 4.56rem;
+}
+.personcircle-icon63 {
+  position: absolute;
+  top: 79.75rem;
+  left: 18.13rem;
+  width: 2.13rem;
+  height: 2.06rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.image-35-icon {
+  position: absolute;
+  top: 72.75rem;
+  left: 1.06rem;
+  border-radius: 194.5px;
+  width: 4.94rem;
+  height: 4.81rem;
+  object-fit: cover;
+}
+.gelateria {
+  position: absolute;
+  top: 61.63rem;
+  left: 7.5rem;
+  font-size: 0.75rem;
+}
+.gelato {
+  position: absolute;
+  top: 63rem;
+  left: 10.38rem;
+  color: #ed2d2d;
+}
+.metros {
+  position: absolute;
+  top: 63rem;
+  left: 13.25rem;
+}
+.icon-heart1 {
+  position: absolute;
+  height: 1.28%;
+  width: 4.79%;
+  top: 74.2%;
+  right: 9.21%;
+  bottom: 24.51%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div1 {
+  position: absolute;
+  top: 63.06rem;
+  left: 8.56rem;
+  font-size: 0.63rem;
+  color: #ffcb0c;
+  display: inline-block;
+  width: 2.56rem;
+  height: 0.75rem;
+}
+.menu-child44 {
+  position: absolute;
+  top: 63.25rem;
+  left: 9.81rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.menu-child45 {
+  position: absolute;
+  top: 63.25rem;
+  left: 12.75rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.emoji-white-medium-star {
+  position: absolute;
+  height: 0.94%;
+  width: 2.99%;
+  top: 74.72%;
+  right: 65.97%;
+  bottom: 24.34%;
+  left: 31.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.brussels {
+  position: absolute;
+  top: 67.75rem;
+  left: 7.5rem;
+  font-size: 0.75rem;
+}
+.panetteria {
+  position: absolute;
+  top: 69.13rem;
+  left: 10.38rem;
+  color: #ed2d2d;
+}
+.metros1 {
+  position: absolute;
+  top: 69.13rem;
+  left: 14.81rem;
+}
+.icon-heart2 {
+  position: absolute;
+  height: 1.28%;
+  width: 4.79%;
+  top: 81.47%;
+  right: 9.21%;
+  bottom: 17.25%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-31-icon {
+  position: absolute;
+  top: 66.56rem;
+  left: 1.06rem;
+  border-radius: 158.5px;
+  width: 4.94rem;
+  height: 4.88rem;
+  object-fit: cover;
+}
+.div2 {
+  position: absolute;
+  top: 69.19rem;
+  left: 8.56rem;
+  font-size: 0.63rem;
+  color: #ffcb0c;
+  display: inline-block;
+  width: 2.56rem;
+  height: 0.75rem;
+}
+.menu-child46 {
+  position: absolute;
+  top: 69.38rem;
+  left: 9.81rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.menu-child47 {
+  position: absolute;
+  top: 69.38rem;
+  left: 14.19rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.emoji-white-medium-star1 {
+  position: absolute;
+  height: 0.94%;
+  width: 2.99%;
+  top: 81.99%;
+  right: 65.97%;
+  bottom: 17.07%;
+  left: 31.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.casa-michelis {
+  position: absolute;
+  top: 73.94rem;
+  left: 7.5rem;
+  font-size: 0.75rem;
+}
+.pasta {
+  position: absolute;
+  top: 75.31rem;
+  left: 10.38rem;
+  color: #ed2d2d;
+}
+.metros2 {
+  position: absolute;
+  top: 75.31rem;
+  left: 12.81rem;
+}
+.icon-heart3 {
+  position: absolute;
+  height: 1.28%;
+  width: 4.79%;
+  top: 88.81%;
+  right: 9.21%;
+  bottom: 9.91%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div3 {
+  position: absolute;
+  top: 75.38rem;
+  left: 8.56rem;
+  font-size: 0.63rem;
+  color: #ffcb0c;
+  display: inline-block;
+  width: 2.56rem;
+  height: 0.75rem;
+}
+.menu-child48 {
+  position: absolute;
+  top: 75.56rem;
+  left: 9.81rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.menu-child49 {
+  position: absolute;
+  top: 75.56rem;
+  left: 12.31rem;
+  border-radius: 50%;
+  width: 0.38rem;
+  height: 0.38rem;
+}
+.emoji-white-medium-star2 {
+  position: absolute;
+  height: 0.94%;
+  width: 2.99%;
+  top: 89.33%;
+  right: 65.97%;
+  bottom: 9.74%;
+  left: 31.04%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-33-icon {
+  position: absolute;
+  top: 60.44rem;
+  left: 1.06rem;
+  border-radius: 240px;
+  width: 4.94rem;
+  height: 4.81rem;
+  object-fit: cover;
+}
+.icon-heart4 {
+  position: absolute;
+  height: 1.28%;
+  width: 4.79%;
+  top: 67.23%;
+  right: 9.21%;
+  bottom: 31.48%;
+  left: 86.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-34-icon {
+  position: absolute;
+  top: 66.38rem;
+  left: 1.06rem;
+  border-radius: 39.5px;
+  width: 4.94rem;
+  height: 5.06rem;
+  object-fit: cover;
+}
+.vector-icon212 {
+  position: absolute;
+  height: 0.74%;
+  width: 4.07%;
+  top: 13.34%;
+  right: 21.88%;
+  bottom: 85.92%;
+  left: 74.05%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon213 {
+  position: absolute;
+  height: 1.85%;
+  width: 5.09%;
+  top: 12.82%;
+  right: 5.34%;
+  bottom: 85.32%;
+  left: 89.57%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.menu {
+  position: relative;
+  border-radius: 40px;
+  background-color: #fff;
+  width: 100%;
+  height: 84.31rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 0.69rem;
+  color: #000;
+  font-family: Montserrat;
+}
